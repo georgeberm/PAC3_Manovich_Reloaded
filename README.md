@@ -55,5 +55,7 @@ El análisis de Twitch permite concluir que la plataforma constituye un caso cla
 La aplicación de la lógica del software resulta fundamental en este proceso, ya que organiza la visibilidad de los contenidos, regula la interacción entre usuarios y emisores y transforma la participación de datos capaces de ser procesados y reutilizados. Como resultado, Twitch configura nuevas formas de experiencia comunicativa en tiempo real, donde la audiencia deja de ser pasiva y pasa a formar parte activa del desarrollo del contenido.
 Desde esta perspectiva, dicha plataforma ejemplifica cómo el software actúa como central en la transformación de prácticas comunicativas tradicionales, dando lugar a un medio hibrido que redefine la emisión audiovisual y la interacción social en la cultura digital contemporánea.
 
+![Twitch](twitch.png)
+
 ## Conclusión general
 El análisis de los dos casos realizados, desde la perspectiva de la hibridación propuesta por Lev Manovich permite observar cómo el software actúa como un metamedio capaz de integrar y transformar practicas digitales previamente diferenciadas. En ambos casos, no se trata de una simple remediación de medios existentes, sino de procesos de hibridación en los que la lógica del software reorganiza la creación, la distribución y la participación de los usuarios, dando lugar a experiencias nuevas y coherentes. Estas plataformas ejemplifican cómo en la cultura digital contemporánea, el software no solo soporta los medios, sino que redefine profundamente su funcionamiento y sus consecuencias culturales.
