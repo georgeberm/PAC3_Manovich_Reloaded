@@ -5,17 +5,17 @@
 ---
 
 ## Índice
-- [Introducción](#introduccion)
+- [Introducción](#introducción)
 - [Caso 1: Fortnite](#caso-1-fortnite)
   - [Contexto](#contexto)
   - [Hibridación](#hibridación)
   - [Conclusión Fortnite](#conclusion-fortnite)
 - [Caso 2: Twitch](caso-2-twitch)
   - [Contexto](#contexto-1)
-  - [Hibridación](#hibridacion-1)
-  - [Conclusión Twitch](#conclusion-twitch)
-- [Conclusión general](#conclusion-general)
-- [Bibliografía - Webgrafía](#bibliografia-webgrafia)
+  - [Hibridación](#hibridación-1)
+  - [Conclusión Twitch](#conclusión-twitch)
+- [Conclusión general](#conclusión-general)
+- [Bibliografía - Webgrafía](#bibliografía-webgrafía)
 
 ## Introducción
 Lev Manovich plantea en El software toma el mando que el ordenador se ha convertido en un metamedio capaz de integrar y transformar medios culturales a través del software. En este contexto, el concepto de hibridación permite analizar cómo las técnicas, interfaces y lógicas propias de medios distintos se fusionan para generar experiencias culturales nuevas, que no pueden entenderse como una simple suma de formatos.
