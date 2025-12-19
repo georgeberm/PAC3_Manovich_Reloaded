@@ -5,7 +5,17 @@
 ---
 
 ## Índice
-
+- [Introducción](#introduccion)
+- [Caso 1: Fortnite](#caso-1-fortnite)
+  - [Contexto](#contexto)
+  - [Hibridación](#hibridacion)
+  - [Conclusión Fortnite](#conclusion-fortnite)
+- [Caso 2: Twitch](caso-2-twitch)
+  - [Contexto](#contexto-1)
+  - [Hibridación](#hibridacion-1)
+  - [Conclusión Twitch](#conclusion-twitch)
+- [Conclusión general](#conclusion-general)
+- [Bibliografía - Webgrafía](#bibliografia-webgrafia)
 
 ## Introducción
 Lev Manovich plantea en El software toma el mando que el ordenador se ha convertido en un metamedio capaz de integrar y transformar medios culturales a través del software. En este contexto, el concepto de hibridación permite analizar cómo las técnicas, interfaces y lógicas propias de medios distintos se fusionan para generar experiencias culturales nuevas, que no pueden entenderse como una simple suma de formatos.
@@ -34,6 +44,8 @@ Desde esta perspectiva, Fortnite ejemplifica cómo el metamedio ordenador contin
 
 ![Fortnite](fortnite.png)
 
+---
+
 ## Caso 2: Twitch
 ### Contexto
 Twitch surge como una plataforma de emisión de video en directo, inicialmente vinculada al ámbito del videojuego, que con el tiempo ha evolucionado hacia un entorno digital complejo basado en la interacción en tiempo real y un papel central del software. En la actualidad, Twitch combina la difusión audiovisual con la participación activa de los usuarios, integrando sistemas de comunicación, automatización y gestión de contenidos dentro de una misma infraestructura.
@@ -59,3 +71,12 @@ Desde esta perspectiva, dicha plataforma ejemplifica cómo el software actúa co
 
 ## Conclusión general
 El análisis de los dos casos realizados, desde la perspectiva de la hibridación propuesta por Lev Manovich permite observar cómo el software actúa como un metamedio capaz de integrar y transformar practicas digitales previamente diferenciadas. En ambos casos, no se trata de una simple remediación de medios existentes, sino de procesos de hibridación en los que la lógica del software reorganiza la creación, la distribución y la participación de los usuarios, dando lugar a experiencias nuevas y coherentes. Estas plataformas ejemplifican cómo en la cultura digital contemporánea, el software no solo soporta los medios, sino que redefine profundamente su funcionamiento y sus consecuencias culturales.
+
+## Bibliografía - Webgrafía
+- Fortnite [en línea]. Disponible en: https://www.fortnite.com/?lang=es-ES
+- **Twitch** [streaming]. Disponible en: https://www.twitch.tv
+- **Fonaments i evolució de la multimèdia** [en línea]. Disponible en: https://cultura-digital.aula.uoc.edu/1-4-la-hibridacion-de-los-medios/
+- MANOVICH, Lev. (2013). **"El software toma el mando"** [en línea]. Lugar de publicación: Barcelona: Editorial UOC, 2013.
+
+## Licencia
+
