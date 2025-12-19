@@ -33,14 +33,14 @@ Este proceso ha sido posible gracias a la aplicación de la lógica del software
 Desde esta perspectiva, Fortnite ejemplifica cómo el metamedio ordenador continúa evolucionando hacia formas hibridas cada vez más complejas, en las que el software no solo soporta los medios, sino que los transforma y redefine profundamente.
 
 ## Caso 2: Twitch
-###Contexto
+### Contexto
 Twitch surge como una plataforma de emisión de video en directo, inicialmente vinculada al ámbito del videojuego, que con el tiempo ha evolucionado hacia un entorno digital complejo basado en la interacción en tiempo real y un papel central del software. En la actualidad, Twitch combina la difusión audiovisual con la participación activa de los usuarios, integrando sistemas de comunicación, automatización y gestión de contenidos dentro de una misma infraestructura.
 A diferencia de los modelos tradicionales de broadcasting, la experiencia en Twitch no es unidireccional. La emisión en directo se ve influida por la interacción de la audiencia a través del chat y otros mecanismos de participación, lo que convierte el directo en una experiencia dinámica y variable. Este proceso está mediado por sistemas de software que regulan la visibilidad del contenido, la interacción y el acceso a los directos.
 La plataforma organiza y distribuye los contenidos a partir de perfiles de usuario y datos de uso, mediante sistema de recomendación algorítmica que generan experiencias personalizadas. Además, incorpora procesos automatizados como la moderación del chat, el uso de bots y la gestión de la participación, reforzando el papel del software como elemento central de la comunicación.
 En conjunto, Twitch puede entenderse como una plataforma digital que reconfigura la emisión audiovisual tradicional a través de la interacción, la automatización y la gestión de datos, lo que la convierte en un caso pertinente para analizar el proceso de hibridación desde la perspectiva de Lev Manovich.
 
 
-###Hibridación
+### Hibridación
 En una primera lectura, se podría decir que Twitch podría interpretarse como un caso de remediación de medio audiovisuales preexistentes. Su funcionamiento recuerda en parte, a la televisión en directo o al streaming tradicional, al basarse en la emisión continua de contenido audiovisual hacia una audiencia. Asimismo, la presencia del chat y comentarios podría asociarse a formatos propios de foros o redes sociales, mientras que la posibilidad de guardar clips remite a practicas habituales de archivo y reutilización de contenidos digitales.
 Sin embargo, al analizar cómo se integran estos elementos dentro de la plataforma, se observa que Twitch no se limita a superponer funcionalidades heredadas de otros medios. La emisión audiovisual, la interacción social, la moderación, la recomendación de contenidos y la participación económica no funcionan de manera independiente, sino que se integran en un mismo sistema y se influyen entre sí a través del software.
 
