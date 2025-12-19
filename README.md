@@ -32,6 +32,8 @@ A partir del análisis realizado, puede afirmarse que Fortnite constituye un cas
 Este proceso ha sido posible gracias a la aplicación de la lógica del software, que permite la automatización de reglas, la variabilidad de las experiencias, la modularidad de los contenidos y la transcodificación de practicas culturales en datos y métricas. Como resultado, Fortnite se consolida como un entorno programable y reconfigurable que da lugar a nuevas formas de participación, creación y valoración cultural, imposibles sin el papel central del software.
 Desde esta perspectiva, Fortnite ejemplifica cómo el metamedio ordenador continúa evolucionando hacia formas hibridas cada vez más complejas, en las que el software no solo soporta los medios, sino que los transforma y redefine profundamente.
 
+![Fortnite](fortnite.png)
+
 ## Caso 2: Twitch
 ### Contexto
 Twitch surge como una plataforma de emisión de video en directo, inicialmente vinculada al ámbito del videojuego, que con el tiempo ha evolucionado hacia un entorno digital complejo basado en la interacción en tiempo real y un papel central del software. En la actualidad, Twitch combina la difusión audiovisual con la participación activa de los usuarios, integrando sistemas de comunicación, automatización y gestión de contenidos dentro de una misma infraestructura.
