@@ -42,8 +42,6 @@ Desde esta perspectiva, Fortnite ejemplifica cómo el metamedio ordenador contin
 
 ![Fortnite](fortnite.png)
 
----
-
 ## **Caso 2: Twitch**
 ### Contexto
 Twitch surge como una plataforma de emisión de video en directo, inicialmente vinculada al ámbito del videojuego, que con el tiempo ha evolucionado hacia un entorno digital complejo basado en la interacción en tiempo real y un papel central del software. En la actualidad, Twitch combina la difusión audiovisual con la participación activa de los usuarios, integrando sistemas de comunicación, automatización y gestión de contenidos dentro de una misma infraestructura.
@@ -77,9 +75,9 @@ El análisis de los dos casos realizados, desde la perspectiva de la hibridació
 - MANOVICH, Lev. (2013). **"El software toma el mando"** [en línea]. Lugar de publicación: Barcelona: Editorial UOC, 2013.
 
 ## **Licencia**
-Este trabajo se publica bajo una licencia **Creative Commons Atribución/Reconocimiento-CompartirIgual 4.0 (CC BY-SA 4.0)**.  
+Este ensayo se publica bajo una licencia **Creative Commons Atribución/Reconocimiento-CompartirIgual 4.0 (CC BY-SA 4.0)**.  
 https://creativecommons.org/licenses/by-sa/4.0/
 
-El texto del ensayo ha sido elaborado por el autor y se distribuye bajo dicha licencia.
+El texto del proyecto ha sido elaborado por el autor y se distribuye bajo dicha licencia.
 
 Las imágenes utilizadas corresponden a **capturas de pantalla** de las páginas oficiales de **Fortnite (Epic Games)** y **Twitch**, empleadas con fines exclusivamente académicos y de análisis crítico. Dichos materiales son propiedad de sus respectivos titulares y se incluyen únicamente como referencia contextual.
