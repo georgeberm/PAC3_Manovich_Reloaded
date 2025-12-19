@@ -1,5 +1,5 @@
 # LA HIBRIDACIÓN: Fortnite - Twitch
-- Jorge Luis Martínez Bermúdez
+- Autor: Jorge Luis Martínez Bermúdez
 - Cultura Digital - Multimedia
 
 ---
@@ -17,12 +17,12 @@
 - [Conclusión general](#conclusión-general)
 - [Bibliografía - Webgrafía](#bibliografía-webgrafía)
 
-## Introducción
+## **Introducción**
 Lev Manovich plantea en El software toma el mando que el ordenador se ha convertido en un metamedio capaz de integrar y transformar medios culturales a través del software. En este contexto, el concepto de hibridación permite analizar cómo las técnicas, interfaces y lógicas propias de medios distintos se fusionan para generar experiencias culturales nuevas, que no pueden entenderse como una simple suma de formatos.
 Desde esta perspectiva, el presente ensayo propone el análisis de dos plataformas digitales contemporáneas con el objetivo de reflexionar sobre el papel del software en la creación de medio híbridos. A partir de algunos de los conceptos desarrollados por Manovich, como la modularidad, la automatización, la variabilidad, la base de datos y la transcodificación. Se explorará cómo estas reconfiguran practicas culturales como el videojuego, la emisión audiovisual o la interacción social en el entorno digital actual.
 
 
-## Caso 1: FORTNITE
+## **Caso 1: FORTNITE**
 ### Contexto
 Fortnite surge inicialmente como un videojuego multijugador desarrollado por la empesa Epic Games, pero con el paso del tiempo ha evolucionado hasta convertirse en una plataforma digital compleja que va más allá del concepto tradicional de videojuego. En la actualidad, Fortnite funciona como un entorno interactivo en línea donde convergen el juego, la comunicación social, la creación de contenidos y el consumo de eventos culturales en tiempo real.
 Este proceso de evolución ha sido posible gracias a una infraestructura basada íntegramente en software, que permite la actualización constante del entorno, la incorporación de nuevos modos de juegos y la integración de experiencias diversas dentro de un mismo sistema. A diferencia de los juegos cerrados lineales, Fortnite presenta como un espacio dinámico, donde los contenidos se organizan y distribuyen de forma continua a través de temporadas, eventos y experiencias creadas tanto por la propia plataforma como por los usuarios.
@@ -46,7 +46,7 @@ Desde esta perspectiva, Fortnite ejemplifica cómo el metamedio ordenador contin
 
 ---
 
-## Caso 2: Twitch
+## **Caso 2: Twitch**
 ### Contexto
 Twitch surge como una plataforma de emisión de video en directo, inicialmente vinculada al ámbito del videojuego, que con el tiempo ha evolucionado hacia un entorno digital complejo basado en la interacción en tiempo real y un papel central del software. En la actualidad, Twitch combina la difusión audiovisual con la participación activa de los usuarios, integrando sistemas de comunicación, automatización y gestión de contenidos dentro de una misma infraestructura.
 A diferencia de los modelos tradicionales de broadcasting, la experiencia en Twitch no es unidireccional. La emisión en directo se ve influida por la interacción de la audiencia a través del chat y otros mecanismos de participación, lo que convierte el directo en una experiencia dinámica y variable. Este proceso está mediado por sistemas de software que regulan la visibilidad del contenido, la interacción y el acceso a los directos.
@@ -69,14 +69,19 @@ Desde esta perspectiva, dicha plataforma ejemplifica cómo el software actúa co
 
 ![Twitch](twitch.png)
 
-## Conclusión general
+## **Conclusión general**
 El análisis de los dos casos realizados, desde la perspectiva de la hibridación propuesta por Lev Manovich permite observar cómo el software actúa como un metamedio capaz de integrar y transformar practicas digitales previamente diferenciadas. En ambos casos, no se trata de una simple remediación de medios existentes, sino de procesos de hibridación en los que la lógica del software reorganiza la creación, la distribución y la participación de los usuarios, dando lugar a experiencias nuevas y coherentes. Estas plataformas ejemplifican cómo en la cultura digital contemporánea, el software no solo soporta los medios, sino que redefine profundamente su funcionamiento y sus consecuencias culturales.
 
-## Bibliografía - Webgrafía
+## **Bibliografía - Webgrafía**
 - Fortnite [en línea]. Disponible en: https://www.fortnite.com/?lang=es-ES
 - **Twitch** [streaming]. Disponible en: https://www.twitch.tv
 - **Fonaments i evolució de la multimèdia** [en línea]. Disponible en: https://cultura-digital.aula.uoc.edu/1-4-la-hibridacion-de-los-medios/
 - MANOVICH, Lev. (2013). **"El software toma el mando"** [en línea]. Lugar de publicación: Barcelona: Editorial UOC, 2013.
 
-## Licencia
+## **Licencia**
+Este trabajo se publica bajo una licencia **Creative Commons Atribución/Reconocimiento-CompartirIgual 4.0 (CC BY-SA 4.0)**.  
+https://creativecommons.org/licenses/by-sa/4.0/
 
+El texto del ensayo ha sido elaborado por el autor y se distribuye bajo dicha licencia.
+
+Las imágenes utilizadas corresponden a **capturas de pantalla** de las páginas oficiales de **Fortnite (Epic Games)** y **Twitch**, empleadas con fines exclusivamente académicos y de análisis crítico. Dichos materiales son propiedad de sus respectivos titulares y se incluyen únicamente como referencia contextual.
