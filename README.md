@@ -8,7 +8,7 @@
 - [Introducción](#introduccion)
 - [Caso 1: Fortnite](#caso-1-fortnite)
   - [Contexto](#contexto)
-  - [Hibridación](#hibridacion)
+  - [Hibridación](#hibridación)
   - [Conclusión Fortnite](#conclusion-fortnite)
 - [Caso 2: Twitch](caso-2-twitch)
   - [Contexto](#contexto-1)
